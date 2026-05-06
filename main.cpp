@@ -5,4 +5,5 @@ int main () {
 
     cout << "Hallo anak baik" << endl;
     cout << "Hallo anak nakal";
+    cout << "Hallo anak pintar";
 }
